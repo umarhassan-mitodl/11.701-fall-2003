@@ -1,0 +1,61 @@
+{
+  "term": "Fall",
+  "year": "2003",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Society",
+      "The Developing World"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "International Development"
+    ],
+    [
+      "Social Science",
+      "Urban Studies",
+      "Regional Planning"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Regional Politics"
+    ],
+    [
+      "Business",
+      "Organizational Behavior"
+    ]
+  ],
+  "legacy_uid": "b701babd-912a-cb94-bf95-464ba242c79a",
+  "instructors": {
+    "content": [
+      "9faa57af-a5a2-deb0-1fd3-29cf09baa6ab"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "8a76dbbc-1b4a-24a3-8e29-8e18aeead69f",
+    "website": "11-701-introduction-to-planning-institutional-processes-in-developing-countries-fall-2003"
+  },
+  "course_title": "Introduction to Planning & Institutional Processes in Developing Countries",
+  "course_description": "This introductory course helps students learn to pose questions and analyze problems in the field of planning in developing countries. Not arguing for one \"right\" approach, the course draws on grounded empirical experiences - historical and recent - to help students navigate the way they approach their future work in developing-country governments, NGOs and international organizations.\n",
+  "department_numbers": [
+    "11"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "11.701",
+  "course_image_thumbnail": {
+    "content": "edf08f93-daf5-5cbb-4e11-160d8751bd7a",
+    "website": "11-701-introduction-to-planning-institutional-processes-in-developing-countries-fall-2003"
+  },
+  "learning_resource_types": [
+    "Written Assignments with Examples"
+  ],
+  "site_uid": "c2b5f628-91c5-4cbe-b566-f659fc5ed07a",
+  "site_short_id": "11.701-fall-2003",
+  "site_url_path": "courses/11-701-introduction-to-planning-institutional-processes-in-developing-countries-fall-2003",
+  "title": "Course Metadata"
+}
