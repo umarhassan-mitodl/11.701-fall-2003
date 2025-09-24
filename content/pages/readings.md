@@ -96,7 +96,7 @@ Pollitt, Christopher. "Justification by Works or by Faith? Evaluating the New Pu
 
 Roe, Emery M. "Development Narratives, Or Making the Best of Blueprint Development." _World Development_ 19, no. 4 (1991): 287-300.
 
-Jain, Pankaj J., and Mick Moore. ["What Makes Micro-credit Programmes Effective? Fashionable Fallacies and Workable Realities." (PDF)](https://www.ids.ac.uk/download.php?file=files/Wp177.pdf) IDS Working Paper 177, Brighton: Institute of Development Studies, November, 2002. 
+Jain, Pankaj J., and Mick Moore. {{% resource_link "8abb91da-72f2-4243-9fee-de0fe3e4cef9" "\"What Makes Micro-credit Programmes Effective? Fashionable Fallacies and Workable Realities.\" (PDF)" %}} IDS Working Paper 177, Brighton: Institute of Development Studies, November, 2002. 
 
 Joshi, A. "A Third Narrative: Frontline Workers and the WBSFSA." In _Roots of Change: Front Line Workers and Forest Policy Reform in West Bengal_. Ph.D. Dissertation, Cambridge, MA, Department of Urban Studies and Planning, Massachusetts Institute of Technology, pp. 1-2 and 177-242.
 
@@ -169,7 +169,7 @@ Tendler, Judith. "Decentralization, Participation, and Other Things Local." In _
 
 Case study led by Prof. Xavier Briggs (Harvard JFKennedy School of Government / DUSP-HCED): double session.
 
-Harvard Business School Publishing Online. "Supermarkets in Inner Cities." BS Case #N1-796-145, 1996. Introduction and Harlem case study required; rest optional. ([Harvard Business Online](http://hbx.hbs.edu/))
+Harvard Business School Publishing Online. "Supermarkets in Inner Cities." BS Case #N1-796-145, 1996. Introduction and Harlem case study required; rest optional. ({{% resource_link "c0228ce4-f52f-46bc-96c2-8b0a75ed9f1e" "Harvard Business Online" %}})
 
 Sanyal, Bishwapriya, and Vinit Mukhija. "Institutional Pluralism and Housing Delivery: A Case of Unforeseen Conflicts in Mumbai, India." _World Development_ 29, no. 12 (December 2001): 2043-2057. ([Science Direct Journals](http://dx.doi.org/10.1016/S0305-750X(01)00082-1 ))
 
@@ -183,7 +183,7 @@ Fox, Jonathan, and Josefina Aranda. _Decentralization and Rural Development in M
 
 Olowu, Dele, and Paul Smoke. "Determinants of Success in African Local Governments: an Overview." _Public Administration and Development_ 12 (1992): 1-17.
 
-Smoke, Paul. "Decentralisation in Africa: Goals, Dimensions, Myths, and Challenges." In "Decentralisation and Local Governance in Africa," Special issue of _Public Administration and Development_ 23, no. 1, guest editor: Paul Smoke, 2003, pp. 7-16. ([InterScience](http://www3.interscience.wiley.com/cgi-bin/issuetoc?ID=102529087))
+Smoke, Paul. "Decentralisation in Africa: Goals, Dimensions, Myths, and Challenges." In "Decentralisation and Local Governance in Africa," Special issue of _Public Administration and Development_ 23, no. 1, guest editor: Paul Smoke, 2003, pp. 7-16. ({{% resource_link "0783019d-1bb8-4437-9413-f20468e70071" "InterScience" %}})
 
 Baiocchi, Gianpaolo. _Radicals in Power: The Workers' Party and Experiments in Urban Democracy in Brazil_. New York and London: Palgrave, 2003. Preface, Chapters 1 and 11 (pp. 12-48, 310-337).
 
@@ -194,7 +194,7 @@ X: Public-Private Synergy Between Government and Civil Society: Business Associa
 
 Evans, Peter B. "Introduction: Development Strategies across the Public-Private Divide," and "Government Action, Social Capital and Development: Reviewing the Evidence on Synergy." _World Development_ 24, no. 6 (June 1996): 1033-1037, 1119-1132.
 
-Schneider, Ben Ross. "Elusive Synergy: Business-Government Relations and Development." _Comparative Politics_ 31, no. 1 (October 1998): 101-122. \[Expanded version published in Desarrollo Económico (Argentina) 39, 1999.\] ([Weinberg College of Arts & Sciences](http://www.wcas.northwestern.edu/))
+Schneider, Ben Ross. "Elusive Synergy: Business-Government Relations and Development." _Comparative Politics_ 31, no. 1 (October 1998): 101-122. \[Expanded version published in Desarrollo Económico (Argentina) 39, 1999.\] ({{% resource_link "254b6cbf-262d-49e1-b50d-fbf11bb4ad1c" "Weinberg College of Arts & Sciences" %}})
 
 Houtzager, Peter, Adrián Gurza Lavalle, and Arnab Acharya. "Who Participates? Civil Society and the New Democratic Politics in São Paulo, Brazil." IDS Working Paper, July 2003. Institute of Development Studies at Sussex.
 
